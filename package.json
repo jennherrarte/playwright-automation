@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennherrarte/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennherrarte/playwright/issues"
+  },
+  "homepage": "https://github.com/jennherrarte/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
